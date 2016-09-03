@@ -6,6 +6,5 @@
 
 This demo shows how to estimate the Incumbency Effect using the regression discontinuity approach 
 
-For detailed description, please refer to the **nonparametricRegression.ipynb** 
+For detailed description (stata code included), please refer to the **nonparametricRegression.ipynb** 
 
----
